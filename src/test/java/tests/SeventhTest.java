@@ -5,8 +5,8 @@ import org.testng.annotations.Test;
 import resources.BaseClass;
 
 @Test
-public class SixthTest extends BaseClass{
+public class SeventhTest extends BaseClass{
 	public void twoTest() {
-	System.out.println("SixthTest Excuted");
+	System.out.println("SeventhTest Excuted");
 	}
 }
